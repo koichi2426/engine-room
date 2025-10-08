@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  app:
+    # Dockerfileが存在するディレクトリを `build.context` として指定します
+    build:
+      context: ./agenthub-training
+    
+    # コンテナに名前を付けます
+    container_name: agenthub-training
+    
+    # ホストOSのポートとコンテナのポートを接続します
+    ports:
+      - "8000:8000"
+      
+    # ホストOSのソースコードディレクトリをコンテナ内に同期（マウント）させます
+    # これにより、コードの変更が即座にコンテナ内に反映されます
+    volumes:
+      - ./agenthub-training/app:/app

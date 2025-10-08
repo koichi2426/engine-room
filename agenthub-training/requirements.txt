@@ -1,0 +1,5 @@
+# Webフレームワーク
+fastapi
+
+# ASGIサーバー（FastAPIを動かすために必要）
+uvicorn[standard]
