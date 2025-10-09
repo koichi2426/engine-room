@@ -135,7 +135,7 @@ def select_best_method(user_text):
 # 実行テスト
 # ==========================
 if __name__ == "__main__":
-    user_input = "I just walked past my favorite ramen shop but I’m already full."
+    user_input = "I just walked past my favorite ramen shop"
     results = select_best_method(user_input)
 
     print("\n[ユーザー入力]", user_input)
