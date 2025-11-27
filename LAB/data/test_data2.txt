@@ -1,0 +1,100 @@
+Traffic is heavy, can you suggest another way?	Optimize the route
+Find the fastest route to the next city.	Optimize the route
+What's the best route avoiding toll roads?	Optimize the route
+How do I bypass this construction zone?	Optimize the route
+Is there a shorter path to the station?	Optimize the route
+What is the current traffic situation?	Optimize the route
+Recommend a less crowded road.	Optimize the route
+How long will it take to get there via back roads?	Optimize the route
+Need to change my destination to the nearest hospital.	Optimize the route
+Please reroute me to avoid city centers.	Optimize the route
+Is there a scenic alternative to the main road?	Optimize the route
+What's the best time to leave to miss rush hour?	Optimize the route
+Can you calculate the shortest distance trip?	Optimize the route
+Suggest the most fuel-efficient route now.	Optimize the route
+I need a route that avoids tunnels.	Optimize the route
+Show me all available route options.	Optimize the route
+What is the best route for biking?	Optimize the route
+Is this path safe for a large RV?	Optimize the route
+Suggest a detour around the accident.	Optimize the route
+How much longer will the current route take?	Optimize the route
+I think I see smoke ahead, what should I do?	Provide safety and emergency support
+I feel very dizzy and need help now.	Provide safety and emergency support
+I just witnessed an accident, please call the police.	Provide safety and emergency support
+Is it safe to pull over here?	Provide safety and emergency support
+I have a flat tire and need roadside assistance.	Provide safety and emergency support
+I am lost in the woods and need rescue.	Provide safety and emergency support
+I need immediate medical attention.	Provide safety and emergency support
+My car broke down on the side of the highway.	Provide safety and emergency support
+What is the nearest emergency service?	Provide safety and emergency support
+I am being followed, what should I do?	Provide safety and emergency support
+Is there a safe shelter nearby?	Provide safety and emergency support
+I can't breathe, call an ambulance.	Provide safety and emergency support
+What are the local emergency numbers?	Provide safety and emergency support
+My vehicle is overheating, where can I stop safely?	Provide safety and emergency support
+I feel unsafe and need immediate help.	Provide safety and emergency support
+Is this area prone to natural disasters?	Provide safety and emergency support
+I need to report suspicious activity.	Provide safety and emergency support
+My child is sick and needs a doctor urgently.	Provide safety and emergency support
+What should I do if a flash flood occurs?	Provide safety and emergency support
+I have run out of gas.	Provide safety and emergency support
+I want to find a nice place to take pictures.	Suggest events activities and photo opportunities
+What local festivals are happening this weekend?	Suggest events activities and photo opportunities
+Are there any historical sites nearby to visit?	Suggest events activities and photo opportunities
+Suggest some fun things to do this afternoon.	Suggest events activities and photo opportunities
+Where is a good viewpoint for the sunset?	Suggest events activities and photo opportunities
+Show me famous landmarks in this region.	Suggest events activities and photo opportunities
+Are there any good hiking trails accessible now?	Suggest events activities and photo opportunities
+What art exhibitions are running this week?	Suggest events activities and photo opportunities
+Is there a parade today?	Suggest events activities and photo opportunities
+Recommend a hidden gem for photography.	Suggest events activities and photo opportunities
+I'm interested in local wildlife watching.	Suggest events activities and photo opportunities
+Where can I find unique cultural activities?	Suggest events activities and photo opportunities
+Are there any concerts tonight?	Suggest events activities and photo opportunities
+Show me the best spots for a panoramic view.	Suggest events activities and photo opportunities
+What kind of activities are available for tourists?	Suggest events activities and photo opportunities
+Where are the best spots for stargazing tonight?	Suggest events activities and photo opportunities
+Is there a local market open today?	Suggest events activities and photo opportunities
+Recommend a place for abstract photography.	Suggest events activities and photo opportunities
+Show me the schedule for public events.	Suggest events activities and photo opportunities
+Is there a sports game I can watch nearby?	Suggest events activities and photo opportunities
+I need to find a gas station and a coffee shop.	Suggest food rest and shopping options
+Where can I grab a quick, cheap lunch?	Suggest food rest and shopping options
+Are there any clean public restrooms nearby?	Suggest food rest and shopping options
+I'm looking for a souvenir shop.	Suggest food rest and shopping options
+Suggest the best local restaurant for dinner.	Suggest food rest and shopping options
+I am hungry and need to find a cafe.	Suggest food rest and shopping options
+Where can I buy electronics or gadgets?	Suggest food rest and shopping options
+Recommend a nice hotel for a short rest.	Suggest food rest and shopping options
+I need to purchase local crafts.	Suggest food rest and shopping options
+Show me the nearest supermarket.	Suggest food rest and shopping options
+Where can I find a good bakery?	Suggest food rest and shopping options
+I need to buy some medicine.	Suggest food rest and shopping options
+Recommend a comfortable rest area.	Suggest food rest and shopping options
+Where is a popular spot for ice cream?	Suggest food rest and shopping options
+I want to find a unique vintage clothing store.	Suggest food rest and shopping options
+Suggest a place for a quick car wash.	Suggest food rest and shopping options
+Where is the closest farmer's market?	Suggest food rest and shopping options
+I need to find a nice place to sit and relax.	Suggest food rest and shopping options
+Is there a drive-thru restaurant near here?	Suggest food rest and shopping options
+Recommend a store that sells camping gear.	Suggest food rest and shopping options
+What is the best sightseeing spot in this area right now?	Suggest spots based on the situation
+We have 30 minutes to kill, where can we stop?	Suggest spots based on the situation
+It started raining, suggest an indoor activity.	Suggest spots based on the situation
+We are near the coast, what is there to see?	Suggest spots based on the situation
+The kids are getting bored, where can we go?	Suggest spots based on the situation
+We are driving through mountains, suggest a good pull-off spot.	Suggest spots based on the situation
+It's a beautiful sunny day, where should we go?	Suggest spots based on the situation
+I'm feeling adventurous, suggest something exciting.	Suggest spots based on the situation
+We are stuck in a small town, what is the highlight?	Suggest spots based on the situation
+It's evening, suggest a good nightlife spot.	Suggest spots based on the situation
+I need a quiet place to read.	Suggest spots based on the situation
+We just finished a big meal, suggest a relaxing walk.	Suggest spots based on the situation
+It's very hot outside, suggest a cool indoor spot.	Suggest spots based on the situation
+We are looking for something culturally unique to this area.	Suggest spots based on the situation
+Suggest a spot where we can see local industry in action.	Suggest spots based on the situation
+We are near a major university, what's interesting there?	Suggest spots based on the situation
+It is late, suggest a 24-hour place that is safe.	Suggest spots based on the situation
+Suggest a place with free Wi-Fi for quick work.	Suggest spots based on the situation
+The weather is foggy, suggest something atmospheric.	Suggest spots based on the situation
+We have a full tank of gas, suggest a longer scenic drive.	Suggest spots based on the situation
